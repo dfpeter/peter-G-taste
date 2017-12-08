@@ -1,1 +1,3 @@
 hello world
+
+it is a little bit funny to study git.
